@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.X.X",
+    "@google-cloud/speech": "^5.X.X",
+    "@google-cloud/text-to-speech": "^4.X.X",
+    "express": "^4.X.X",
+    "ws": "^8.X.X"
+  }
+}
